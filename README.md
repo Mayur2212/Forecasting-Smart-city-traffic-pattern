@@ -23,7 +23,7 @@ Reliable traffic prediction offers advantages for a wide range of stakeholders, 
 Traditional solutions for traffic prediction have used **statistical models, machine learning techniques, deep learning architectures, and simulation models**. However, these often face challenges with **scalability, interpretability, and adaptability to dynamic data**.  
 Our project addresses these issues by employing **Decision Tree algorithms**, offering **better interpretability, scalability, and robustness** for traffic forecasting.  
 
-## Our Solution  
+## Solution  
 We chose **Decision Trees** due to their:  
 - Clear **interpretability**,  
 - Ability to capture **nonlinear relationships**, and  
