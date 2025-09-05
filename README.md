@@ -1,4 +1,4 @@
-# Forecasting Smart Traffic Patterns 🚦
+# Forecasting of Smart City Traffic Patterns 🚦
 
 ## Project Overview  
 Welcome to my **Smart Traffic Forecasting** project, developed during an internship with **UpSkill Campus** in collaboration with **UniConverge Technologies Pvt. Ltd.** The aim of this project is to apply **machine learning techniques** to predict traffic patterns in smart city ecosystems, contributing to **efficient and sustainable urban transportation systems**.  
